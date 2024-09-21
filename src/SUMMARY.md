@@ -7,4 +7,4 @@
     - [Chapter 4 - UDP通信してみよう](./chapter_4.md)
     - [Chapter 5 - Wireshark で通信を覗いてみよう](./chapter_5.md)
 - [Section 2 - Unity]()
-    - [Chapter 6 - Unity の環境構築](./chapter_6.md)
+    - [Chapter 6 - Unity でプロジェクト作成](./chapter_6.md)
