@@ -56,8 +56,8 @@ sudo apt install dotnet-sdk-8.0
 
 6. JetBrains Rider をインストールします。(Optional)
 
-JetBrains 社の Unity 用 IDE で、学生ライセンスの認証を通すことで、Rider だけでなく、他の JetBrains 製品も使えるようになります。
-ただし、この操作は任意です。VSCode で代替することが出来ます。
+JetBrains 社の Unity 用 IDE で、学生ライセンスの認証を入手することで、Rider だけでなく、他の JetBrains 製品も無料で使えるようになります。
+ただし、この操作は任意です。一応、VSCode で代替することが出来ます(非推奨)。
 
 JetBrains Rider を使用する利点としては、デバッグ機能が強力であること、フォーマッターやリファクタリング機能が優れていることが挙げられます。
 
