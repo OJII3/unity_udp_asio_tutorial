@@ -61,7 +61,7 @@ JetBrains 社の Unity 用 IDE で、学生ライセンスの認証を通すこ�
 
 JetBrains Rider を使用する利点としては、デバッグ機能が強力であること、フォーマッターやリファクタリング機能が優れていることが挙げられます。
 
-[公式サイト](https://www.jetbrains.com/ja-jp/toolbox-app/) から Toolbox をダウンロードし、Toolbox から Rider をインストールしてください。
+[公式サイト](https://www.jetbrains.com/ja-jp/toolbox-app/) から Toolbox をダウンロードし、Toolbox から Rider をインストールしてください。JetBrains Toolbox を経由せずに Rider を入れると、後のトラブルの原因になります。
 
 [このブログ](https://blog.jetbrains.com/ja/2019/08/22/2105/) を参考に、学生ライセンスを取得してください。
 
